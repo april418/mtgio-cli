@@ -6,13 +6,15 @@ import VueRouter from 'vue-router'
 import App from './components/App.vue'
 import Home from './components/Home.vue'
 import CardList from './components/CardList.vue'
+import MomirBasic from './components/MomirBasic.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   { path: '/', component: App, children: [
     { path: '', component: Home },
-    { path: 'cards', component: CardList }
+    { path: 'cards', component: CardList },
+    { path: 'momir', component: MomirBasic }
   ] }
 ]
 
