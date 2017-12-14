@@ -6,20 +6,20 @@ Use [Magic: the Gathering Developer API](https://magicthegathering.io/).
 
 ``` bash
 # install dependencies
-npm install
+$ npm install
 ```
 
 ## Run dev server
 
 ```bash
 # serve with hot reload at localhost:8080
-npm run dev
+$ npm run dev
 ```
 
 ## Build
 
-```
+```bash
 # build for production with minification
-npm run build
+$ npm run build
 ```
 
