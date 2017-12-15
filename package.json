@@ -1,7 +1,7 @@
 {
-  "name": "mtg-sdk-training",
-  "description": "A Vue.js project",
-  "version": "1.0.0",
+  "name": "mtgio-cli",
+  "description": "Sample project used Magic: the Gathering.IO",
+  "version": "0.0.0",
   "author": "april418 <apri.4.18@gmail.com>",
   "license": "MIT",
   "private": true,
